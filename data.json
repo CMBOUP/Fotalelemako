@@ -28,6 +28,28 @@
       "pickupDate": "2026-07-10T07:17:36.914Z",
       "cashier": "Fatou Diop",
       "updatedAt": "2026-07-10T19:26:35.022Z"
+    },
+    {
+      "id": "T0002",
+      "clientName": "vente du mois",
+      "clientPhone": "777462219",
+      "items": [
+        {
+          "id": "svc_habit_special",
+          "name": "Habit spécial",
+          "price": 2000,
+          "qty": 176,
+          "unit": "pièce"
+        }
+      ],
+      "total": 352000,
+      "paid": 352000,
+      "paymentMethod": "Espèces",
+      "status": "en_cours",
+      "createdAt": "2026-07-10T19:48:05.214Z",
+      "pickupDate": "2026-06-30T00:00:00.000Z",
+      "cashier": "Admin C2M",
+      "updatedAt": "2026-07-10T19:48:05.214Z"
     }
   ],
   "clients": [
@@ -159,5 +181,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T19:48:00.067Z"
+  "updatedAt": "2026-07-10T19:48:05.214Z"
 }
