@@ -24,8 +24,8 @@
       "paid": 5500,
       "paymentMethod": "Espèces",
       "status": "retiré",
-      "createdAt": "2026-07-09T05:52:43.049Z",
-      "pickupDate": "2026-07-10T05:52:43.049Z",
+      "createdAt": "2026-07-09T07:17:36.914Z",
+      "pickupDate": "2026-07-10T07:17:36.914Z",
       "cashier": "Fatou Diop"
     }
   ],
@@ -36,7 +36,7 @@
       "phone": "77 450 12 34",
       "address": "Plateau, Dakar",
       "notes": "Préfère cintres pour vestes",
-      "createdAt": "2026-07-10T17:52:43.049Z"
+      "createdAt": "2026-07-10T19:17:36.914Z"
     },
     {
       "id": "cli_seynabou",
@@ -44,7 +44,7 @@
       "phone": "76 590 88 12",
       "address": "Almadies, Dakar",
       "notes": "",
-      "createdAt": "2026-07-10T17:52:43.049Z"
+      "createdAt": "2026-07-10T19:17:36.914Z"
     },
     {
       "id": "cli_babacar",
@@ -52,7 +52,7 @@
       "phone": "70 820 44 55",
       "address": "Mermoz, Dakar",
       "notes": "Urgences fréquentes",
-      "createdAt": "2026-07-10T17:52:43.049Z"
+      "createdAt": "2026-07-10T19:17:36.914Z"
     }
   ],
   "expenses": [],
@@ -149,5 +149,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T19:18:07.415Z"
+  "updatedAt": "2026-07-10T19:19:14.124Z"
 }
