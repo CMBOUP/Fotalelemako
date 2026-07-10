@@ -23,11 +23,11 @@
       "total": 5500,
       "paid": 1,
       "paymentMethod": "Espèces",
-      "status": "retiré",
+      "status": "annulé",
       "createdAt": "2026-07-09T07:17:36.914Z",
       "pickupDate": "2026-07-10T07:17:36.914Z",
       "cashier": "Fatou Diop",
-      "updatedAt": "2026-07-10T19:26:35.022Z"
+      "updatedAt": "2026-07-10T19:50:36.220Z"
     },
     {
       "id": "T0002",
@@ -181,5 +181,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T19:50:10.206Z"
+  "updatedAt": "2026-07-10T19:50:36.220Z"
 }
