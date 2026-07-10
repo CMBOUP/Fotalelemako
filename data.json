@@ -21,13 +21,13 @@
         }
       ],
       "total": 5500,
-      "paid": 0,
+      "paid": 1,
       "paymentMethod": "Espèces",
       "status": "retiré",
       "createdAt": "2026-07-09T07:17:36.914Z",
       "pickupDate": "2026-07-10T07:17:36.914Z",
       "cashier": "Fatou Diop",
-      "updatedAt": "2026-07-10T19:26:16.073Z"
+      "updatedAt": "2026-07-10T19:26:35.022Z"
     }
   ],
   "clients": [
@@ -150,5 +150,5 @@
       "program": ""
     }
   ],
-  "updatedAt": "2026-07-10T19:26:16.073Z"
+  "updatedAt": "2026-07-10T19:26:35.022Z"
 }
